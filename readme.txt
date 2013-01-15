@@ -1,5 +1,3 @@
-progress.txt:
-
 NOTE: The author of this page is not affiliated with ANTP or any of its developers.
 
 Yeah, ok, so maybe no widget, yet. Soon...
@@ -14,7 +12,7 @@ Maybe.
 
 I'm also writing this assuming I'm the only one reading it, so I may be cryptic at times, or seem to make assumptions about your knowledge level, etc. Sorry. Ask me to explain later.
 
-Jan 14, 2013:
+Jan 14, 2013, Late:
 
 So, First!1!!: How to Create an Extension for Chrome
 
@@ -27,3 +25,8 @@ Nice, google. A simple coding error in a tutorial. Well played. I thought you we
 Once you get all those files into a directory, open chrome://extensions, and click on the button "Load Unpacked Extensions" Point the file selector at your folder, and viola! kitties everywhere!
 
 That's all for now. Soon, I'll turn this into an ANTP widget.
+
+Jan 15, 2013, 0950:
+
+I have Git set up on my home computer now, and am installing it on my work machine as I type. We'll se where this leads.
+
