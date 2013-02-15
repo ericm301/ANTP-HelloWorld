@@ -12,6 +12,7 @@ Maybe.
 
 I'm also writing this assuming I'm the only one reading it, so I may be cryptic at times, or seem to make assumptions about your knowledge level, etc. Sorry. Ask me to explain later.
 
+*****01.01*****
 Jan 14, 2013, Late:
 
 So, First!1!!: How to Create an Extension for Chrome
@@ -28,5 +29,11 @@ That's all for now. Soon, I'll turn this into an ANTP widget.
 
 Jan 15, 2013, 0950:
 
-I have Git set up on my home computer now, and am installing it on my work machine as I type. We'll se where this leads.
+I have Git set up on my home computer now, and am installing it on my work machine as I type. We'll see where this leads.
+
+*****02.00*****
+
+Feb 15, 2013, early.
+Git is a git. It's very frustrating to use GitHub in a browser, the GitHub app for windows and the shell (bash!!),
+and they don't seem to keep track of each other. What good is a cloud if all views don't update when you change something?
 
